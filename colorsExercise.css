@@ -1,0 +1,21 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: #11ff33;
+}
+h3{
+    color: #f25;
+}
+h4{
+    color: #00bb22ff;
+}
+h5{
+    color: #f0cf;
+}
+h6{
+color: rgb(255, 45, 21);
+}
+p{
+    color: rgba(110, 60, 81, .5);
+}
